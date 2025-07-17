@@ -52,5 +52,5 @@ python DiceGame_Python_CLI.py
 # Author
 
 ## **Nikhil Kumar Shah**  
-📧 [Email](mailto:nikhil102007@gmail.com) &nbsp; 🌐 [Portfolio](https://nikhil-kumar-shah.github.io/portfolio/) &nbsp; 💻 [GitHub](https://github.com/Nikhil102007) &nbsp; 🔗 [LinkedIn](https://linkedin.com/in/nikhilkumarshah)
+📧 [Email](mailto:nikhil102007@gmail.com) &nbsp; 🌐 [Portfolio](https://nikhil-kumar-shah.github.io/portfolio/) &nbsp; 💻 [GitHub](https://github.com/Nikhil-Kumar-Shah) &nbsp; 🔗 [LinkedIn](https://linkedin.com/in/nikhilkumarshah)
 
